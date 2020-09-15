@@ -1,4 +1,4 @@
-package vnt.test;
+package vnt.test.junit;
 
 import java.util.concurrent.TimeUnit;
 
